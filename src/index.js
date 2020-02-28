@@ -1,4 +1,9 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './components/app';
 
+ReactDOM.render(<App />,
+  document.getElementById('root'));
 // https://swapi.co/
 
 /*fetch('https://swapi.co/api/people/1')// get promise

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import './person-detalis.css';
+import './person-details.css';
 
 export default class PersonDetails extends Component {
 
